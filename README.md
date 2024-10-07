@@ -1,5 +1,5 @@
 # elp_cam_wrapper
-Camera wrapper based on libuvc_camera
+simple camera wrapper package based on libuvc_camera
 
 ## Getting Started
 1. Clone and build this repo
